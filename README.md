@@ -5,6 +5,6 @@
 - 📫 How to reach me? Send E-mail on roman_kro@ukr.net
 
 <!---
-KhomenkoRoman/KhomenkoRoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KhomenkoRoman/Public is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
